@@ -38,7 +38,7 @@
   <a href="https://github.com/awalterschulze/regex-reexamined-coq/"><img src="coq_art.jpeg" height="120" width="96" title="Coq Proofs about Regular Expressions as a learning exercise" alt="Coq Proofs about Regular Expressions as a learning exercise"/></a>
   <a href="https://github.com/awalterschulze/category-theory-for-programmers-challenges"><img src="category_theory_for_programmers.jpg" width="96" height="120" title="Category Theory for Programmers Exercises" alt="Category Theory for Programmers Exercises"/></a>
   <a href="https://github.com/awalterschulze/gominikanren"><img src="the_reasoned_schemer.jpg" height="120" width="96" title="The Reasoned Schemer's minikanren in Go" alt="The Reasoned Schemer's minikanren in Go"/></a>
-  <a href="https://github.com/awalterschulze/learning"><img src="./smiley.png" width="96" title="My Learning List" alt="more..."/></a>
+  <a href="https://github.com/awalterschulze/learning">more...</a>
 </p>
 
 <h1>Music</h1>
