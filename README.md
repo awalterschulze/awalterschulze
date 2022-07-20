@@ -8,6 +8,19 @@
   <a href="https://raw.githubusercontent.com/awalterschulze/waltercv/master/waltercv.pdf"><img alt="CV" title="Walter Schulze's CV" height="48" width="48" src="./pdf.svg"/></a>
 </p>
 
+<h1>Projects</h1>
+
+<h2>Learning</h2>
+
+<p align="center">
+  <a href="https://github.com/awalterschulze/the-little-typer-exercises"><img src="the_little_typer.jpeg" width="96" height="120" title="The Little Typer Exercises" alt="The Little Typer Exercises"/></a>
+  <a href="https://github.com/awalterschulze/coq_in_a_hurry_exercises"><img src="coq_in_a_hurry.png" width="96" height="120" title="Coq in a Hurry Exercises" alt="Coq in a Hurry Exercises"/></a>
+  <a href="https://github.com/awalterschulze/regex-reexamined-coq/"><img src="coq_art.jpeg" height="120" width="96" title="Coq Proofs about Regular Expressions as a learning exercise" alt="Coq Proofs about Regular Expressions as a learning exercise"/></a>
+  <a href="https://github.com/awalterschulze/category-theory-for-programmers-challenges"><img src="category_theory_for_programmers.jpg" width="96" height="120" title="Category Theory for Programmers Exercises" alt="Category Theory for Programmers Exercises"/></a>
+  <a href="https://github.com/awalterschulze/gominikanren"><img src="the_reasoned_schemer.jpg" height="120" width="96" title="The Reasoned Schemer's minikanren in Go" alt="The Reasoned Schemer's minikanren in Go"/></a>
+  <a href="https://github.com/awalterschulze/learning"><img src="./smiley.png" width="96" title="My Learning List" alt="more..."/></a>
+</p>
+
 <h1>Music</h1>
 
 <h2>PostPost</h2>
@@ -26,7 +39,7 @@
 <h2>om te neurie</h2>
 
 <p align="center">
-  <a href="https://mnrmuller.wordpress.com/"><img src="./omteneurie.jpg" height="96" width="96" title="Andre Muller, reads poems and short stories, most of which are written by him. I make the music with some creative input from him. Most the poems are Afrikaans, but he is not limited to just one language. We typically record and make the music in 5 hours." alt="om te neurie album cover"/></a>
+  <a href="https://mnrmuller.wordpress.com/"><img src="./omteneurie.jpg" height="96" width="96" title="Andre Muller reads poems and short stories in Afrikaans, Dutch and Xhosa, most of which are written by him. We typically record and I add music in about 5 hours." alt="om te neurie album cover"/></a>
   <a href="https://open.spotify.com/artist/5lfMKFEALBYeLxx5C20dXR"><img alt="om te neurie Spotify" title="om te neurie Spotify" height="48" width="48" src="./spotify.svg"/></a>
   <a href="https://music.youtube.com/browse/UCGjc97ZCKQJpSIUSpLuW1nQ"><img alt="om te neurie YouTube Music" title="om te neurie YouTube Music" height="48" width="48" src="./youtube-music.svg"/></a>
   <a href="https://music.apple.com/gb/artist/om-te-neurie/1537747893?app=music"><img alt="om te neurie Apple Music" title="om te neurie Apple Music" height="48" width="48" src="./apple.svg"/></a>
