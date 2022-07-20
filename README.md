@@ -19,16 +19,17 @@
   <a href="https://github.com/katydid/proofs"><img src="coq.svg" width="48" height"48" title="Katydid proofs in Coq" alt="Katydid proofs in Coq"/></a>
 </p>
 
-<h2>gogoprotobuf, erlfmt, music generation</h2>
+<h2>gogoprotobuf, erlfmt, goderive, music generation</h2>
 
 <p align="center">
   <a href="https://github.com/gogo/protobuf"><img src="gogo.png" width="96" height="96" title="gogoprotobuf" alt="gogoprotobuf"/></a>
   <a href="https://github.com/WhatsApp/erlfmt"><img src="erlang.svg" width="96" height="96" title="erlfmt" alt="erlfmt"/></a>
+  <a href="https://github.com/awalterschulze/goderive"><img src="goderive.jpg" width="96" height="96" title="goderive" alt="goderive"/></a>
   <a href="http://superwillow.sourceforge.net/"><img src="superwillow.png" height="96" title="SuperWillow" alt="SuperWillow"/></a>
   <a href="https://doi.ieeecomputersociety.org/10.1109/MMUL.2010.44"><img alt="Article in IEEE Multimedia - Music Generation with Mixed and Higher Order Markov Models" title="Article in IEEE Multimedia - Music Generation with Mixed and Higher Order Markov Models" height="24" width="24" src="./pdf.svg"/></a>
 </p>
 
-<h2>Learning and Exercises</h2>
+<h2>learning and exercises</h2>
 
 <p align="center">
   <a href="https://github.com/awalterschulze/the-little-typer-exercises"><img src="the_little_typer.jpeg" width="96" height="120" title="The Little Typer Exercises" alt="The Little Typer Exercises"/></a>
