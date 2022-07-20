@@ -19,6 +19,14 @@
   <a href="https://github.com/katydid/proofs"><img src="coq.svg" width="48" height"48" title="Katydid proofs in Coq" alt="Katydid proofs in Coq"/></a>
 </p>
 
+<h2>More</h2>
+
+<p align="center">
+  <a href="https://github.com/gogo/protobuf"><img src="gogo.png" width="96" height="96" title="gogoprotobuf" alt="gogoprotobuf"/></a>
+  <a href="http://superwillow.sourceforge.net/"><img src="superwillow.png" height="96" title="SuperWillow" alt="SuperWillow"/></a>
+  <a href="https://doi.ieeecomputersociety.org/10.1109/MMUL.2010.44"><img alt="Article in IEEE Multimedia - Music Generation with Mixed and Higher Order Markov Models" title="Article in IEEE Multimedia - Music Generation with Mixed and Higher Order Markov Models" height="24" width="24" src="./pdf.svg"/></a>
+</p>
+
 <h2>Learning</h2>
 
 <p align="center">
