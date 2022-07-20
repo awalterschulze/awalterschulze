@@ -10,6 +10,15 @@
 
 <h1>Projects</h1>
 
+<h2>Katydid</h2>
+
+<p align="center">
+  <a href="https://katydid.github.io/"><img src="katydid_floor.svg" width="120" height"120" title="Katydid" alt="Katydid"/></a>
+  <a href="https://github.com/katydid/katydid"><img src="go.svg" width="48" height"48" title="Katydid implementation in Go" alt="Katydid Go"/></a>
+  <a href="https://github.com/katydid/katydid-haskell"><img src="haskell.svg" width="48" height"48" title="Katydid implementation in Haskell" alt="Katydid Haskell"/></a>
+  <a href="https://github.com/katydid/proofs"><img src="coq.svg" width="48" height"48" title="Katydid proofs in Coq" alt="Katydid proofs in Coq"/></a>
+</p>
+
 <h2>Learning</h2>
 
 <p align="center">
