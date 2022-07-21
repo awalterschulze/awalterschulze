@@ -3,7 +3,6 @@
   <a href="https://soundcloud.com/awalterschulze"><img alt="Soundcloud" title="awalterschulze's Soundcloud" height="48" width="48" src="./soundcloud.svg"/></a>
   <a href="https://medium.com/@awalterschulze"><img alt="Medium" title="awalterschulze's Blog" height="48" width="48" src="./medium.svg"/></a>
   <a href="https://twitter.com/awalterschulze"><img alt="Twitter" title="awalterschulze's Twitter" height="48" width="48" src="./twitter.svg"/></a>
-  <a href="https://slides.com/awalterschulze"><img alt="Slides" title="awalterschulze's Slides" height="48" width="48" src="./slides.svg"/></a>
   <a href="https://www.linkedin.com/in/awalterschulze"><img alt="LinkedIn" title="awalterschulze's LinkedIn" height="48" width="48" src="./linkedin.svg"/></a>
   <a href="https://raw.githubusercontent.com/awalterschulze/waltercv/master/waltercv.pdf"><img alt="CV" title="Walter Schulze's CV" height="48" width="48" src="./pdf.svg"/></a>
 </p>
@@ -26,11 +25,11 @@
   <a href="https://github.com/WhatsApp/erlfmt"><img src="erlang.svg" width="96" height="96" title="erlfmt" alt="erlfmt"/></a>
   <a href="https://github.com/awalterschulze/goderive"><img src="goderive.jpg" width="96" height="96" title="goderive" alt="goderive"/></a>
   <a href="https://github.com/awalterschulze/gographviz"><img src="graphviz.png" width="96" height="96" title="gographviz" alt="gographviz"/></a>
-  <a href="http://superwillow.sourceforge.net/"><img src="superwillow.png" height="96" title="SuperWillow" alt="SuperWillow"/></a>
+  <a href="http://superwillow.sourceforge.net/"><img src="smiley.png" height="96" title="SuperWillow" alt="SuperWillow"/></a>
   <a href="https://doi.ieeecomputersociety.org/10.1109/MMUL.2010.44"><img alt="Article in IEEE Multimedia - Music Generation with Mixed and Higher Order Markov Models" title="Article in IEEE Multimedia - Music Generation with Mixed and Higher Order Markov Models" height="24" width="24" src="./pdf.svg"/></a>
 </p>
 
-<h2>learning and exercises</h2>
+<h1>Learnings</h1>
 
 <p align="center">
   <a href="https://github.com/awalterschulze/the-little-typer-exercises"><img src="the_little_typer.jpeg" width="96" height="120" title="The Little Typer Exercises" alt="The Little Typer Exercises"/></a>
