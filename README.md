@@ -39,7 +39,7 @@
    <img src="https://img.youtube.com/vi/k9linVmyIiE/maxres1.jpg" alt="Derivatives for Regular Expressions" width="240" border="10" />
   </a>
   <a href="https://www.youtube.com/watch?v=Jg8eFh96wPU&list=PLYwF9EIrl42S9ldgii7kfBEIHPle7PqMk&index=3" target="_blank">
-   <img src="https://img.youtube.com/vi/Jg8eFh96wPU/maxres2.jpg" alt="Derivatives for Regular Expressions" width="240" border="10" />
+   <img src="https://img.youtube.com/vi/Jg8eFh96wPU/maxres2.jpg" alt="Max for Live Javascript tutorial" width="240" border="10" />
   </a>
 </p>
 
