@@ -7,9 +7,9 @@
   <a href="https://raw.githubusercontent.com/awalterschulze/waltercv/master/waltercv.pdf"><img alt="CV" title="Walter Schulze's CV" height="48" width="48" src="./pdf.svg"/></a>
 </p>
 
-<h1>Projects</h1>
+<h1 align="center">Projects</h1>
 
-<h2>Katydid: validation language for serialized data</h2>
+<h2 align="center">Katydid: validation language for serialized data</h2>
 
 <p align="center">
   <a href="https://katydid.github.io/"><img src="katydid_floor.svg" width="120" height"120" title="Katydid" alt="Katydid"/></a>
@@ -18,7 +18,7 @@
   <a href="https://github.com/katydid/proofs"><img src="coq.svg" width="48" height"48" title="Katydid proofs in Coq" alt="Katydid proofs in Coq"/></a>
 </p>
 
-<h2>gogoprotobuf, erlfmt, goderive, gographviz, music generation</h2>
+<h2 align="center">gogoprotobuf, erlfmt, goderive, gographviz, music generation</h2>
 
 <p align="center">
   <a href="https://github.com/gogo/protobuf"><img src="gogo.png" width="96" height="96" title="gogoprotobuf: Protocol Buffers for Go with Gadgets" alt="gogoprotobuf"/></a>
@@ -29,7 +29,7 @@
   <a href="https://doi.ieeecomputersociety.org/10.1109/MMUL.2010.44"><img alt="Article in IEEE Multimedia - Music Generation with Mixed and Higher Order Markov Models" title="Article in IEEE Multimedia - Music Generation with Mixed and Higher Order Markov Models" height="24" width="24" src="./pdf.svg"/></a>
 </p>
 
-<h1>Videos</h1>
+<h1 align="center">Videos</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=8kL7_KTsIoc" target="_blank">
@@ -43,7 +43,20 @@
   </a>
 </p>
 
-<h1>Learnings</h1>
+<h1 align="center">Music</h1>
+
+<p align="center">
+  <a href="https://soundcloud.com/awalterschulze"><img alt="awalterschulze Soundcloud" title="awalterschulze Soundcloud" height="48" width="48" src="./soundcloud.svg"/></a>
+  <a href="https://open.spotify.com/artist/50xMhOHVZKSZxAYsjLzuAC"><img alt="awalterschulze Spotify" title="awalterschulze Spotify" height="48" width="48" src="./spotify.svg"/></a>
+  <a href="https://music.youtube.com/playlist?list=OLAK5uy_kAFJkK4qNWLNOvtRU_NbNeveVhYE3bGS0"><img alt="awalterschulze YouTube Music" title="awalterschulze YouTube Music" height="48" width="48" src="./youtube-music.svg"/></a>
+  <a href="https://music.apple.com/gb/artist/awalterschulze/1636537736"><img alt="awalterschulze Apple Music" title="awalterschulze Apple Music" height="48" width="48" src="./apple.svg"/></a>
+  <a href="https://music.amazon.co.uk/artists/B0B83T8RXV/awalterschulze"><img alt="awalterschulze Amazon Music" title="awalterschulze Amazon Music" height="48" width="48" src="./amazon-music.svg"/></a>
+  <a href="https://listen.tidal.com/album/239913679/track/239913687"><img alt="awalterschulze Tidal" title="awalterschulze Tidal" height="48" width="48" src="./tidal.svg"/></a>
+  <a href="https://www.youtube.com/watch?v=qYSCusQAETU"><img alt="awalterschulze YouTube Channel" title="awalterschulze YouTube Channel" height="48" width="48" src="./youtube.svg"/></a>
+  <a href="https://www.deezer.com/en/artist/178191227"><img alt="awalterschulze Deezer" title="awalterschulze Deezer" height="48" width="48" src="./deezer.svg"/></a>
+</p>
+
+<h1 align="center">Learnings</h1>
 
 <p align="center">
   <a href="https://github.com/awalterschulze/the-little-typer-exercises"><img src="the_little_typer.jpeg" width="96" height="120" title="The Little Typer Exercises" alt="The Little Typer Exercises"/></a>
