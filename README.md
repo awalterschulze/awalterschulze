@@ -1,10 +1,24 @@
 <p align="center">
-  <a href="https://www.youtube.com/c/awalterschulze"><img alt="YouTube" title="awalterschulze's YouTube Channel" height="48" width="48" src="./youtube.svg"/></a>
-  <a href="https://soundcloud.com/awalterschulze"><img alt="Soundcloud" title="awalterschulze's Soundcloud" height="48" width="48" src="./soundcloud.svg"/></a>
-  <a href="https://medium.com/@awalterschulze"><img alt="Medium" title="awalterschulze's Blog" height="48" width="48" src="./medium.svg"/></a>
-  <a href="https://twitter.com/awalterschulze"><img alt="Twitter" title="awalterschulze's Twitter" height="48" width="48" src="./twitter.svg"/></a>
+  <a 
+     href="https://www.youtube.com/c/awalterschulze"><img alt="YouTube" title="awalterschulze's YouTube Channel" height="48" width="48" src="./youtube.svg"/>
+  </a>
+  <a 
+     href="https://soundcloud.com/awalterschulze"><img alt="Soundcloud" title="awalterschulze's Soundcloud" height="48" width="48" src="./soundcloud.svg"/>
+  </a>
+  <a
+     href="https://medium.com/@awalterschulze"><img alt="Medium" title="awalterschulze's Blog" height="48" width="48" src="./medium.svg"/>
+  </a>
+  <a 
+     href="https://twitter.com/awalterschulze"><img alt="Twitter" title="awalterschulze's Twitter" height="48" width="48" src="./twitter.svg"/>
+  </a>
   <a href="https://www.linkedin.com/in/awalterschulze"><img alt="LinkedIn" title="awalterschulze's LinkedIn" height="48" width="48" src="./linkedin.svg"/></a>
   <a href="https://raw.githubusercontent.com/awalterschulze/waltercv/master/waltercv.pdf"><img alt="CV" title="Walter Schulze's CV" height="48" width="48" src="./pdf.svg"/></a>
+  <a href="https://octodon.social/@awalterschulze">
+    <img alt="Mastadon" title="awalterschulze's Mastadon" height="24" width="24" src="./mastadon.svg" />
+  </a>
+  <a href="https://cohost.org/awalterschulze">
+    <img alt="Cohost" title="awalterschulze's cohost" height="24" width="24" src="./cohost.jpg" />
+  </a>
 </p>
 
 <h1 align="center">Projects</h1>
