@@ -13,7 +13,7 @@
   </a>
   <a href="https://www.linkedin.com/in/awalterschulze"><img alt="LinkedIn" title="awalterschulze's LinkedIn" height="48" width="48" src="./linkedin.svg"/></a>
   <a href="https://raw.githubusercontent.com/awalterschulze/waltercv/master/waltercv.pdf"><img alt="CV" title="Walter Schulze's CV" height="48" width="48" src="./pdf.svg"/></a>
-  <a href="https://octodon.social/@awalterschulze">
+  <a href="https://fosstodon.org/@awalterschulze">
     <img alt="Mastadon" title="awalterschulze's Mastadon" height="24" width="24" src="./mastadon.svg" />
   </a>
   <a href="https://cohost.org/awalterschulze">
