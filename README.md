@@ -9,7 +9,7 @@
      href="https://medium.com/@awalterschulze"><img alt="Medium" title="awalterschulze's Blog" height="48" width="48" src="./medium.svg"/>
   </a>
   <a href="https://fosstodon.org/@awalterschulze">
-    <img alt="Mastadon" title="awalterschulze's Mastadon" height="24" width="24" src="./mastadon.svg" />
+    <img alt="Mastadon" title="awalterschulze's Mastadon" height="48" width="48" src="./mastadon.svg" />
   </a>
   <a 
      href="https://twitter.com/awalterschulze"><img alt="Twitter" title="awalterschulze's Twitter" height="48" width="48" src="./twitter.svg"/>
