@@ -2,14 +2,14 @@
   <a 
      href="https://www.youtube.com/c/awalterschulze"><img alt="YouTube" title="awalterschulze's YouTube Channel" height="48" width="48" src="./youtube.svg"/>
   </a>
-  <a 
-     href="https://soundcloud.com/awalterschulze"><img alt="Soundcloud" title="awalterschulze's Soundcloud" height="48" width="48" src="./soundcloud.svg"/>
-  </a>
   <a
      href="https://medium.com/@awalterschulze"><img alt="Medium" title="awalterschulze's Blog" height="48" width="48" src="./medium.svg"/>
   </a>
   <a href="https://fosstodon.org/@awalterschulze">
     <img alt="Mastadon" title="awalterschulze's Mastadon" height="48" width="48" src="./mastadon.svg" />
+  </a>
+  <a 
+     href="https://soundcloud.com/awalterschulze"><img alt="Soundcloud" title="awalterschulze's Soundcloud" height="48" width="48" src="./soundcloud.svg"/>
   </a>
   <a 
      href="https://twitter.com/awalterschulze"><img alt="Twitter" title="awalterschulze's Twitter" height="48" width="48" src="./twitter.svg"/>
@@ -23,10 +23,14 @@
 <h2 align="center">Katydid: validation language for serialized data</h2>
 
 <p align="center">
-  <a href="https://katydid.github.io/"><img src="katydid_floor.svg" width="120" height"120" title="Katydid" alt="Katydid"/></a>
-  <a href="https://github.com/katydid/katydid"><img src="go.svg" width="48" height"48" title="Katydid implementation in Go" alt="Katydid Go"/></a>
-  <a href="https://github.com/katydid/katydid-haskell"><img src="haskell.svg" width="48" height"48" title="Katydid implementation in Haskell" alt="Katydid Haskell"/></a>
-  <a href="https://github.com/katydid/proofs"><img src="coq.svg" width="48" height"48" title="Katydid proofs in Coq" alt="Katydid proofs in Coq"/></a>
+  <a href="https://katydid.github.io/"><img src="katydid_rect.svg" width="120" height"120" title="Katydid"
+      alt="Katydid" /></a>
+  <a href="https://github.com/katydid/proofs"><img src="lean.svg" width="48" height"48" title="Katydid proofs in Lean"
+      alt="Katydid proofs in Lean" /></a>
+  <a href="https://github.com/katydid/katydid"><img src="go.svg" width="48" height"48"
+      title="Katydid implementation in Go" alt="Katydid Go" /></a>
+  <a href="https://github.com/katydid/katydid-haskell"><img src="haskell.svg" width="48" height"48"
+      title="Katydid implementation in Haskell" alt="Katydid Haskell" /></a>
 </p>
 
 <h2 align="center">gogoprotobuf, erlfmt, goderive, gographviz, music generation</h2>
@@ -41,7 +45,6 @@
 </p>
 
 <h1 align="center">Videos</h1>
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=8kL7_KTsIoc" target="_blank">
    <img src="https://img.youtube.com/vi/8kL7_KTsIoc/maxres3.jpg" alt="Gogoprotobuf: Preparing for GopherCon UK 2022" width="240" border="10" />
@@ -51,6 +54,42 @@
   </a>
   <a href="https://www.youtube.com/watch?v=Jg8eFh96wPU&list=PLYwF9EIrl42S9ldgii7kfBEIHPle7PqMk&index=3" target="_blank">
    <img src="https://img.youtube.com/vi/Jg8eFh96wPU/maxres2.jpg" alt="Max for Live Javascript tutorial" width="240" border="10" />
+  </a>
+</p>
+
+<h1 align="center">
+  <a href="https://medium.com/@awalterschulze">
+    <img alt="Medium" title="awalterschulze's Blog" height="24" width="24" src="./medium.svg" />
+  </a>
+  Blog
+</h1>
+<p align="center">
+  <a href="https://medium.com/better-programming/recursion-schemes-explained-using-regular-expressions-467765771fa3">
+    <img
+      src="fixitfelix.jpg"
+      width="240"
+      height"120" 
+      title="Recursion Schemes Explained Using Regular Expressions"
+      alt="Recursion Schemes Explained Using Regular Expressions"
+    />
+  </a>
+  <a href="https://medium.com/better-programming/derivatives-of-symbolic-automata-explained-4673dee6af82">
+    <img
+      src="cymbals.jpg"
+      width="240"
+      height"120" 
+      title="Derivatives of Symbolic Automata Explained"
+      alt="Derivatives of Symbolic Automata Explained"
+    />
+  </a>
+  <a href="https://medium.com/better-programming/monads-for-go-programmers-6cda2b978cb1">
+    <img
+      src="bartiferr.jpg"
+      width="240"
+      height"120" 
+      title="Monads for Go Programmers"
+      alt="Monads for Go Programmers"
+    />
   </a>
 </p>
 
