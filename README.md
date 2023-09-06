@@ -12,6 +12,9 @@
      href="https://soundcloud.com/awalterschulze"><img alt="Soundcloud" title="awalterschulze's Soundcloud" height="48" width="48" src="./soundcloud.svg"/>
   </a>
   <a 
+     href="https://twitter.com/awalterschulze"><img alt="Threads" title="awalterschulze's Threads" height="48" width="48" src="./threads.png"/>
+  </a>
+  <a 
      href="https://twitter.com/awalterschulze"><img alt="Twitter" title="awalterschulze's Twitter" height="48" width="48" src="./twitter.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/awalterschulze"><img alt="LinkedIn" title="awalterschulze's LinkedIn" height="48" width="48" src="./linkedin.svg"/></a>
