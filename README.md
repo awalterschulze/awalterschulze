@@ -11,8 +11,7 @@
   <a 
      href="https://soundcloud.com/awalterschulze"><img alt="Soundcloud" title="awalterschulze's Soundcloud" height="48" width="48" src="./soundcloud.svg"/>
   </a>
-  <a 
-     href="https://discord.com/users/708930747175665684"><img alt="Discord" title="awalterschulze's Discord" height="48" width="48" src="./discord.svg"/>
+  <a href="https://awalterschulze.bsky.social/"><img alt="BlueSky" title="awalterschulze's BlueSky" height="48" width="48" src="./bluesky.png" />
   </a>
   <a href="https://www.linkedin.com/in/awalterschulze"><img alt="LinkedIn" title="awalterschulze's LinkedIn" height="48" width="48" src="./linkedin.svg"/></a>
   <a href="https://raw.githubusercontent.com/awalterschulze/waltercv/master/waltercv.pdf"><img alt="CV" title="Walter Schulze's CV" height="48" width="48" src="./pdf.svg"/></a>
