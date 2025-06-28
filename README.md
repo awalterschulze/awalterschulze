@@ -99,7 +99,7 @@
   <a href="https://music.youtube.com/channel/UCYlW5cyWL_yC0aJ68xOcu2A"><img alt="awalterschulze YouTube Music" title="awalterschulze YouTube Music" height="48" width="48" src="./youtube-music.svg"/></a>
   <a href="https://music.apple.com/gb/artist/awalterschulze/1636537736"><img alt="awalterschulze Apple Music" title="awalterschulze Apple Music" height="48" width="48" src="./apple.svg"/></a>
   <a href="https://music.amazon.co.uk/artists/B0B83T8RXV/awalterschulze"><img alt="awalterschulze Amazon Music" title="awalterschulze Amazon Music" height="48" width="48" src="./amazon-music.svg"/></a>
-  <a href="https://listen.tidal.com/artist/33472883"><img alt="awalterschulze Tidal" title="awalterschulze Tidal" height="48" width="48" src="./tidal.svg"/></a>   <a href="https://www.deezer.com/en/artist/178191227"><img alt="awalterschulze Deezer" title="awalterschulze Deezer" height="48" width="48" src="./deezer.svg"/></a>
+  <a href="https://listen.tidal.com/artist/33472883"><img alt="awalterschulze Tidal" title="awalterschulze Tidal" height="48" width="48" src="./tidal.svg"/></a> 
 </p>
 
 <h1 align="center">Learnings</h1>
