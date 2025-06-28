@@ -95,7 +95,7 @@
 <p align="center">
   <a href="https://soundcloud.com/awalterschulze"><img alt="awalterschulze Soundcloud" title="awalterschulze Soundcloud" height="48" width="48" src="./soundcloud.svg"/></a>
   <a href="https://open.spotify.com/artist/50xMhOHVZKSZxAYsjLzuAC"><img alt="awalterschulze Spotify" title="awalterschulze Spotify" height="48" width="48" src="./spotify.svg"/></a>
-  <a href="https://music.youtube.com/playlist?list=OLAK5uy_kAFJkK4qNWLNOvtRU_NbNeveVhYE3bGS0"><img alt="awalterschulze YouTube Music" title="awalterschulze YouTube Music" height="48" width="48" src="./youtube-music.svg"/></a>
+  <a href="https://music.youtube.com/channel/UCYlW5cyWL_yC0aJ68xOcu2A"><img alt="awalterschulze YouTube Music" title="awalterschulze YouTube Music" height="48" width="48" src="./youtube-music.svg"/></a>
   <a href="https://music.apple.com/gb/artist/awalterschulze/1636537736"><img alt="awalterschulze Apple Music" title="awalterschulze Apple Music" height="48" width="48" src="./apple.svg"/></a>
   <a href="https://music.amazon.co.uk/artists/B0B83T8RXV/awalterschulze"><img alt="awalterschulze Amazon Music" title="awalterschulze Amazon Music" height="48" width="48" src="./amazon-music.svg"/></a>
   <a href="https://listen.tidal.com/album/239913679/track/239913687"><img alt="awalterschulze Tidal" title="awalterschulze Tidal" height="48" width="48" src="./tidal.svg"/></a>
