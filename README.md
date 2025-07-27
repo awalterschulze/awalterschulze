@@ -30,7 +30,7 @@
       title="Katydid implementation in Haskell" alt="Katydid Haskell" /></a>
 </p>
 
-<h2 align="center">gogoprotobuf, erlfmt, goderive, gographviz, music generation</h2>
+<h2 align="center">more open source projects</h2>
 
 <p align="center">
   <a href="https://github.com/facebook/fbthrift"><img src="fbthrift.png" width="96" height="96" title="fbthrift: facebook's thrift go library" alt="erlfmt"/></a>
