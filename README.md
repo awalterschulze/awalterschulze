@@ -33,11 +33,12 @@
 <h2 align="center">gogoprotobuf, erlfmt, goderive, gographviz, music generation</h2>
 
 <p align="center">
-  <a href="https://github.com/gogo/protobuf"><img src="gogo.png" width="96" height="96" title="gogoprotobuf: Protocol Buffers for Go with Gadgets" alt="gogoprotobuf"/></a>
-  <a href="https://github.com/WhatsApp/erlfmt"><img src="erlang.svg" width="96" height="96" title="erlfmt: erlang code formatter" alt="erlfmt"/></a>
-  <a href="https://github.com/awalterschulze/goderive"><img src="goderive.jpg" width="96" height="96" title="goderive: code generator for Go" alt="goderive"/></a>
-  <a href="https://github.com/awalterschulze/gographviz"><img src="graphviz.png" width="96" height="96" title="gographviz: graphviz parser for go" alt="gographviz"/></a>
-  <a href="http://superwillow.sourceforge.net/"><img src="smiley.png" height="96" title="SuperWillow: Music Generation with AI" alt="SuperWillow"/></a>
+  <a href="https://github.com/facebook/fbthrift"><img src="fbthrift.png" width="96" height="96" title="fbthrift: facebook's thrift go library" alt="erlfmt"/></a>
+  <a href="https://github.com/WhatsApp/erlfmt"><img src="erlfmt.png" width="96" height="96" title="erlfmt: erlang code formatter" alt="erlfmt"/></a>
+  <a href="https://github.com/gogo/protobuf"><img src="gogoprotobuf.png" width="96" height="96" title="gogoprotobuf: Protocol Buffers for Go with Gadgets" alt="gogoprotobuf"/></a>
+  <a href="https://github.com/awalterschulze/goderive"><img src="goderive.png" width="96" height="96" title="goderive: code generator for Go" alt="goderive"/></a>
+  <a href="https://github.com/awalterschulze/gographviz"><img src="gographviz.png" width="96" height="96" title="gographviz: graphviz parser for go" alt="gographviz"/></a>
+  <a href="http://superwillow.sourceforge.net/"><img src="superwillow2.png" height="96" title="SuperWillow: Music Generation with AI" alt="SuperWillow"/></a>
   <a href="https://doi.ieeecomputersociety.org/10.1109/MMUL.2010.44"><img alt="Article in IEEE Multimedia - Music Generation with Mixed and Higher Order Markov Models" title="Article in IEEE Multimedia - Music Generation with Mixed and Higher Order Markov Models" height="24" width="24" src="./pdf.svg"/></a>
 </p>
 
