@@ -3,7 +3,7 @@
      href="https://www.youtube.com/c/awalterschulze"><img alt="YouTube" title="awalterschulze's YouTube Channel" height="48" width="48" src="./youtube.svg"/>
   </a>
   <a
-     href="https://medium.com/@awalterschulze"><img alt="Medium" title="awalterschulze's Blog" height="48" width="48" src="./medium.svg"/>
+     href="https://blog.awalterschulze.org"><img alt="Blog" title="awalterschulze's Blog" height="48" width="48" src="./blog.svg"/>
   </a>
   <a href="https://fosstodon.org/@awalterschulze">
     <img alt="Mastadon" title="awalterschulze's Mastadon" height="48" width="48" src="./mastadon.svg" />
@@ -56,13 +56,13 @@
 </p>
 
 <h1 align="center">
-  <a href="https://medium.com/@awalterschulze">
-    <img alt="Medium" title="awalterschulze's Blog" height="24" width="24" src="./medium.svg" />
+  <a href="https://blog.awalterschulze.org">
+    <img alt="Blog" title="awalterschulze's Blog" height="24" width="24" src="./blog.svg" />
   </a>
   Blog
 </h1>
 <p align="center">
-  <a href="https://medium.com/better-programming/recursion-schemes-explained-using-regular-expressions-467765771fa3">
+  <a href="https://blog.awalterschulze.org/post/2022-11-21-recursion-schemes-explained-using-regular-expressions/">
     <img
       src="fixitfelix.jpg"
       width="240"
@@ -71,7 +71,7 @@
       alt="Recursion Schemes Explained Using Regular Expressions"
     />
   </a>
-  <a href="https://medium.com/better-programming/derivatives-of-symbolic-automata-explained-4673dee6af82">
+  <a href="(https://blog.awalterschulze.org/post/2022-10-11-derivatives-of-symbolic-automata-explained/">
     <img
       src="cymbals.jpg"
       width="240"
@@ -80,7 +80,7 @@
       alt="Derivatives of Symbolic Automata Explained"
     />
   </a>
-  <a href="https://medium.com/better-programming/monads-for-go-programmers-6cda2b978cb1">
+  <a href="https://blog.awalterschulze.org/post/2017-9-20-monads-for-go-programmers/">
     <img
       src="bartiferr.jpg"
       width="240"
