@@ -71,7 +71,7 @@
       alt="Recursion Schemes Explained Using Regular Expressions"
     />
   </a>
-  <a href="(https://blog.awalterschulze.org/post/2022-10-11-derivatives-of-symbolic-automata-explained/">
+  <a href="https://blog.awalterschulze.org/post/2022-10-11-derivatives-of-symbolic-automata-explained/">
     <img
       src="cymbals.jpg"
       width="240"
